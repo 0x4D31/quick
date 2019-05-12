@@ -12,8 +12,9 @@ a go library based on [gopacket](https://github.com/google/gopacket) for analyzi
 There is a simple QUIC sniffer in [example](example/) directory. An improved version will be added to the repo soon.
 
 ```$xslt
-go build quick.go
-./quick -i en0
+cd example/
+go build quick_sniffer.go
+./quick_sniffer -i en0
 ```
 
 ### Example Output
