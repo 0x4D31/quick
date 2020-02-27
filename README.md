@@ -58,8 +58,5 @@ Tag Values: map[AEAD:AESG CCRT:2237aaad1bebaa6c67f8adc58015e3ff CCS:01e881609292
 
 - [ ] Add support for IETF QUIC
 - [ ] Add support for gQUIC v46+
-- [ ] QUICk sniffer v1.0
-- [ ] QUIC Layer for gopacket
 - [ ] Add the analysis and collected data to the repo
-- [ ] Release QUICpot
 
